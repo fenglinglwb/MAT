@@ -1,0 +1,16 @@
+easydict
+future
+matplotlib
+numpy
+opencv-python
+scikit-image
+scipy
+click
+requests
+tqdm
+pyspng
+ninja
+imageio-ffmpeg==0.4.3
+timm
+psutil
+scikit-learn
