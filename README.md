@@ -5,6 +5,14 @@
 #### [\[Paper\]](https://arxiv.org/abs/2203.15270)
 ---
 
+We present a transformer-based model (MAT) for large hole inpainting with high fidelity and diversity.
+
+![large hole inpainting with pluralistic generation](https://github.com/fenglinglwb/MAT/blob/main/figures/teasing.pdf)
+
+Compared to other methods, the proposed MAT restores more photo-realistic images with fewer artifacts.
+
+![comparison with sotas](https://github.com/fenglinglwb/MAT/blob/main/figures/sota.pdf)
+
 ## News
 
 This is the official implementation of MAT. The training and testing code is released. We also provide our masks for CelebA-HQ-val and Places-val [here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE).
