@@ -13,6 +13,10 @@ Compared to other methods, the proposed MAT restores more photo-realistic images
 
 ![comparison with sotas](figures/sota.pdf)
 
+<p align="center">
+  <a href="#"><img src="https://github.com/fenglinglwb/MAT/blob/main/figures/teasing.pdf"></a>
+</p>
+
 ## News
 
 This is the official implementation of MAT. The training and testing code is released. We also provide our masks for CelebA-HQ-val and Places-val [here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE).
