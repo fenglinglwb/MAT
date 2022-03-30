@@ -11,7 +11,7 @@ We present a transformer-based model (MAT) for large hole inpainting with high f
 
 Compared to other methods, the proposed MAT restores more photo-realistic images with fewer artifacts.
 
-![comparison with sotas](https://github.com/fenglinglwb/MAT/blob/main/figures/sota.pdf)
+![comparison with sotas](figures/sota.pdf)
 
 ## News
 
