@@ -7,12 +7,11 @@
 
 We present a transformer-based model (MAT) for large hole inpainting with high fidelity and diversity.
 
-![large hole inpainting with pluralistic generation](https://github.com/fenglinglwb/MAT/blob/main/figures/teasing.pdf)
+![large hole inpainting with pluralistic generation](/figures/teasing.png)
 
 Compared to other methods, the proposed MAT restores more photo-realistic images with fewer artifacts.
 
-![comparison with sotas](/figures/sota.pdf)
-![haha](/test_sets/CelebA-HQ/images/test1.png)
+![comparison with sotas](/figures/sota.png)
 
 ## News
 
