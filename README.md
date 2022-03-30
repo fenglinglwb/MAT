@@ -11,6 +11,8 @@ This is the official implementation of MAT. The training and testing code is rel
 
 ---
 
+## Visualization
+
 We present a transformer-based model (MAT) for large hole inpainting with high fidelity and diversity.
 
 ![large hole inpainting with pluralistic generation](/figures/teasing.png)
