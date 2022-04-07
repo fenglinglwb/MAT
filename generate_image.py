@@ -98,7 +98,7 @@ def generate_images(
     device = torch.device('cuda')
     with dnnlib.util.open_url(network_pkl) as f:
         G_saved = legacy.load_network_pkl(f)['G_ema'].to(device).eval().requires_grad_(False) # type: ignore
-    G = Generator(z_dim=512, c_dim=0, w_dim=512, img_resolution=resolution, img_channels=3).to(device).eval().requires_grad_(False)
+    G = Generator(z_dim=512, c_dim=0, w_dim=512, img_resolution=512, img_channels=3).to(device).eval().requires_grad_(False)
     copy_params_and_buffers(G_saved, G, require_all=True)
 
     os.makedirs(outdir, exist_ok=True)
@@ -128,6 +128,8 @@ def generate_images(
             image = np.repeat(image, 3, axis=2)
         return image
 
+    if resolution != 512:
+        noise_mode = 'random'
     with torch.no_grad():
         for i, ipath in enumerate(img_list):
             iname = os.path.basename(ipath).replace('.jpg', '.png')
