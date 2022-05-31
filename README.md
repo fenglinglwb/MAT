@@ -23,6 +23,8 @@ Compared to other methods, the proposed MAT restores more photo-realistic images
 
 ## Usage
 
+It is highly recommanded to adopt Conda/MiniConda to manage the environment to avoid some compilation errors.
+
 1. Clone the repository.
     ```shell
     git clone https://github.com/fenglinglwb/MAT.git 
@@ -104,7 +106,9 @@ Description of arguments:
 
 ## Evaluation
 
-We provide evaluation scrtips for FID/U-IDS/P-IDS/LPIPS/PSNR/SSIM/L1 metrics in the 'evaluation' directory. Only need to give paths of your results and GTs. We also provide our masks for CelebA-HQ-val and Places-val [here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE).
+We provide evaluation scrtips for FID/U-IDS/P-IDS/LPIPS/PSNR/SSIM/L1 metrics in the 'evaluation' directory. Only need to give paths of your results and GTs.
+
+We also provide our masks for CelebA-HQ-val and Places-val [here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE).
 
 
 ## Citation
