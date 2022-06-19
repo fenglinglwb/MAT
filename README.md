@@ -7,7 +7,9 @@
 
 ## News
 
-This is the official implementation of MAT. The training and testing code is released. We also provide our masks for CelebA-HQ-val and Places-val [here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE).
+We will release the Places-512 model trained with full Places (8M) data. It achieves significant improvements on all metrics.
+
+We have uploaded the CelebA-HQ-256 model and masks. Because the original model was lost, we retrained the model so that the results may slightly differ from the reported ones.
 
 ---
 
