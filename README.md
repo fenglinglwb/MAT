@@ -1,4 +1,4 @@
-# MAT: Mask-Aware Transformer for Large Hole Image Inpainting (CVPR2022, Oral)
+# MAT: Mask-Aware Transformer for Large Hole Image Inpainting (CVPR2022 Best Paper Finalists, Oral)
 
 #### Wenbo Li, Zhe Lin, Kun Zhou, Lu Qi, Yi Wang, Jiaya Jia
 
