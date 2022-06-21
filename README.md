@@ -7,7 +7,7 @@
 
 ## News
 
-\[2022.06.21\] We provide a SOTA Places-512 model (Places\_512\_FullData.pkl) trained with full Places data (8M images). It achieves significant improvements on all metrics.
+\[2022.06.21\] We provide a SOTA Places-512 model ([Places\_512\_FullData.pkl](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE)) trained with full Places data (8M images). It achieves significant improvements on all metrics.
 
 <table>
 <thead>
