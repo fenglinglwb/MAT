@@ -30,7 +30,7 @@
   <tr>
     <td>MAT (Ours)</td>
     <td>8M</td>
-    <td>0.78</td>
+    <td><b>0.78</b></td>
     <td>31.72</td>
     <td>43.71</td>
     <td>1.96</td>
