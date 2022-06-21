@@ -7,7 +7,7 @@
 
 ## News
 
-\[2022.06.21\] We provide a SOTA Places-512 model trained with full Places (8M) data. It achieves significant improvements on all metrics.
+\[2022.06.21\] We provide a SOTA Places-512 model (Places\_512\_FullData.pkl) trained with full Places (8M) data. It achieves significant improvements on all metrics.
 
 <table>
 <thead>
@@ -18,7 +18,7 @@
     <th colspan="3">Large Mask</th>
   </tr>
   <tr>
-    <th>FID</th>
+    <th>FID&darr;</th>
     <th>P-IDS</th>
     <th>U-IDS</th>
     <th>FID</th>
@@ -33,7 +33,7 @@
     <td><b>0.78</b></td>
     <td><b>31.72</b></td>
     <td><b>43.71</b></td>
-    <td><b>1.96<</b>/td>
+    <td><b>1.96</b></td>
     <td><b>23.42</b></td>
     <td><b>38.34</b></td>
   </tr>
