@@ -31,11 +31,11 @@
     <td>MAT (Ours)</td>
     <td>8M</td>
     <td><b>0.78</b></td>
-    <td>31.72</td>
-    <td>43.71</td>
-    <td>1.96</td>
-    <td>23.42</td>
-    <td>38.34</td>
+    <td><b>31.72</b></td>
+    <td><b>43.71</b></td>
+    <td><b>1.96<</b>/td>
+    <td><b>23.42</b></td>
+    <td><b>38.34</b></td>
   </tr>
   <tr>
     <td>MAT (Ours)</td>
