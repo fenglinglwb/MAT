@@ -7,9 +7,70 @@
 
 ## News
 
-We will release the Places-512 model trained with full Places (8M) data. It achieves significant improvements on all metrics.
+\[2022.06.21\] We provide a SOTA Places-512 model trained with full Places (8M) data. It achieves significant improvements on all metrics.
 
-We have uploaded the CelebA-HQ-256 model and masks. Because the original model was lost, we retrained the model so that the results may slightly differ from the reported ones.
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">Model</th>
+    <th rowspan="2">Data</th>
+    <th colspan="3">Small Mask</th>
+    <th colspan="3">Large Mask</th>
+  </tr>
+  <tr>
+    <th>FID</th>
+    <th>P-IDS</th>
+    <th>U-IDS</th>
+    <th>FID</th>
+    <th>P-IDS</th>
+    <th>U-IDS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>MAT (Ours)</td>
+    <td>8M</td>
+    <td>0.78</td>
+    <td>31.72</td>
+    <td>43.71</td>
+    <td>1.96</td>
+    <td>23.42</td>
+    <td>38.34</td>
+  </tr>
+  <tr>
+    <td>MAT (Ours)</td>
+    <td>1.8M</td>
+    <td>1.07</td>
+    <td>27.42</td>
+    <td>41.93</td>
+    <td>2.90</td>
+    <td>19.03</td>
+    <td>35.36</td>
+  </tr>
+  <tr>
+    <td>CoModGAN</td>
+    <td>8M</td>
+    <td>1.10</td>
+    <td>26.95</td>
+    <td>41.88</td>
+    <td>2.92</td>
+    <td>19.64</td>
+    <td>35.78</td>
+  </tr>
+  <tr>
+    <td>LaMa-Big</td>
+    <td>4.5M</td>
+    <td>0.99</td>
+    <td>22.79</td>
+    <td>40.58</td>
+    <td>2.97</td>
+    <td>13.09</td>
+    <td>32.39</td>
+  </tr>
+</tbody>
+</table>
+
+\[2022.06.19\] We have uploaded the CelebA-HQ-256 model and masks. Because the original model was lost, we retrained the model so that the results may slightly differ from the reported ones.
 
 ---
 
