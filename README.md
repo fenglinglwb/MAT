@@ -19,11 +19,11 @@
   </tr>
   <tr>
     <th>FID&darr;</th>
-    <th>P-IDS</th>
-    <th>U-IDS</th>
-    <th>FID</th>
-    <th>P-IDS</th>
-    <th>U-IDS</th>
+    <th>P-IDS&uarr;</th>
+    <th>U-IDS&uarr;</th>
+    <th>FID&darr;</th>
+    <th>P-IDS&uarr;</th>
+    <th>U-IDS&uarr;</th>
   </tr>
 </thead>
 <tbody>
