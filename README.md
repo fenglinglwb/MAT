@@ -116,7 +116,9 @@ It is highly recommanded to adopt Conda/MiniConda to manage the environment to a
     python generate_image.py --network pretrained/CelebA-HQ.pkl --dpath test_sets/CelebA-HQ/images --mpath test_sets/CelebA-HQ/masks --outdir samples
     ```
 
-    Note. Our implementation only supports generating an image whose size is a multiple of 512. You need to pad or resize the image to make its size a multiple of 512. Please pad the mask with 0 values.
+    Note. 
+    - Our implementation only supports generating an image whose size is a multiple of 512. You need to pad or resize the image to make its size a multiple of 512. Please pad the mask with 0 values.
+    - If you want to use the CelebA-HQ-256 model, please specify the parameter 'resolution' as 256 in generate\_image.py.
 
 ## Train
 
