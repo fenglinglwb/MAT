@@ -74,7 +74,7 @@
 
 ---
 
-## Demo
+## Web Demo
 
 Thank [Replicate](https://replicate.com/home) for providing a web demo for our MAT. But I didn't check if this demo is right. You are recommended to use our models as following.
 
