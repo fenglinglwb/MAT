@@ -11,66 +11,66 @@
 
 - **\[2022.06.21\]** We provide a SOTA Places-512 model ([Places\_512\_FullData.pkl](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE)) trained with full Places data (8M images). It achieves significant improvements on all metrics.
 
-<table>
-<thead>
-  <tr>
-    <th rowspan="2">Model</th>
-    <th rowspan="2">Data</th>
-    <th colspan="3">Small Mask</th>
-    <th colspan="3">Large Mask</th>
-  </tr>
-  <tr>
-    <th>FID&darr;</th>
-    <th>P-IDS&uarr;</th>
-    <th>U-IDS&uarr;</th>
-    <th>FID&darr;</th>
-    <th>P-IDS&uarr;</th>
-    <th>U-IDS&uarr;</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>MAT (Ours)</td>
-    <td>8M</td>
-    <td><b>0.78</b></td>
-    <td><b>31.72</b></td>
-    <td><b>43.71</b></td>
-    <td><b>1.96</b></td>
-    <td><b>23.42</b></td>
-    <td><b>38.34</b></td>
-  </tr>
-  <tr>
-    <td>MAT (Ours)</td>
-    <td>1.8M</td>
-    <td>1.07</td>
-    <td>27.42</td>
-    <td>41.93</td>
-    <td>2.90</td>
-    <td>19.03</td>
-    <td>35.36</td>
-  </tr>
-  <tr>
-    <td>CoModGAN</td>
-    <td>8M</td>
-    <td>1.10</td>
-    <td>26.95</td>
-    <td>41.88</td>
-    <td>2.92</td>
-    <td>19.64</td>
-    <td>35.78</td>
-  </tr>
-  <tr>
-    <td>LaMa-Big</td>
-    <td>4.5M</td>
-    <td>0.99</td>
-    <td>22.79</td>
-    <td>40.58</td>
-    <td>2.97</td>
-    <td>13.09</td>
-    <td>32.39</td>
-  </tr>
-</tbody>
-</table>
+    <table>
+    <thead>
+      <tr>
+        <th rowspan="2">Model</th>
+        <th rowspan="2">Data</th>
+        <th colspan="3">Small Mask</th>
+        <th colspan="3">Large Mask</th>
+      </tr>
+      <tr>
+        <th>FID&darr;</th>
+        <th>P-IDS&uarr;</th>
+        <th>U-IDS&uarr;</th>
+        <th>FID&darr;</th>
+        <th>P-IDS&uarr;</th>
+        <th>U-IDS&uarr;</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>MAT (Ours)</td>
+        <td>8M</td>
+        <td><b>0.78</b></td>
+        <td><b>31.72</b></td>
+        <td><b>43.71</b></td>
+        <td><b>1.96</b></td>
+        <td><b>23.42</b></td>
+        <td><b>38.34</b></td>
+      </tr>
+      <tr>
+        <td>MAT (Ours)</td>
+        <td>1.8M</td>
+        <td>1.07</td>
+        <td>27.42</td>
+        <td>41.93</td>
+        <td>2.90</td>
+        <td>19.03</td>
+        <td>35.36</td>
+      </tr>
+      <tr>
+        <td>CoModGAN</td>
+        <td>8M</td>
+        <td>1.10</td>
+        <td>26.95</td>
+        <td>41.88</td>
+        <td>2.92</td>
+        <td>19.64</td>
+        <td>35.78</td>
+      </tr>
+      <tr>
+        <td>LaMa-Big</td>
+        <td>4.5M</td>
+        <td>0.99</td>
+        <td>22.79</td>
+        <td>40.58</td>
+        <td>2.97</td>
+        <td>13.09</td>
+        <td>32.39</td>
+      </tr>
+    </tbody>
+    </table>
 
 - **\[2022.06.19\]** We have uploaded the CelebA-HQ-256 model and masks. Because the original model was lost, we retrained the model so that the results may slightly differ from the reported ones.
 
