@@ -5,9 +5,11 @@
 #### [\[Paper\]](https://arxiv.org/abs/2203.15270)
 ---
 
-## News
+## :rocket:  :rocket:  :rocket: **News**:
 
-\[2022.06.21\] We provide a SOTA Places-512 model ([Places\_512\_FullData.pkl](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE)) trained with full Places data (8M images). It achieves significant improvements on all metrics.
+- **\[2022.09.10\]** We could provide all testing images of Places and CelebA inpainted by our MAT and other methods. Since there are too many images, please send an email to wenboli@cse.cuhk.edu.hk and explain your needs.
+
+- **\[2022.06.21\]** We provide a SOTA Places-512 model ([Places\_512\_FullData.pkl](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE)) trained with full Places data (8M images). It achieves significant improvements on all metrics.
 
 <table>
 <thead>
@@ -70,7 +72,7 @@
 </tbody>
 </table>
 
-\[2022.06.19\] We have uploaded the CelebA-HQ-256 model and masks. Because the original model was lost, we retrained the model so that the results may slightly differ from the reported ones.
+- **\[2022.06.19\]** We have uploaded the CelebA-HQ-256 model and masks. Because the original model was lost, we retrained the model so that the results may slightly differ from the reported ones.
 
 ---
 
