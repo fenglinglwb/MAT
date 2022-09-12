@@ -1,9 +1,9 @@
 # MAT: Mask-Aware Transformer for Large Hole Image Inpainting (CVPR 2022 Best Paper Finalist, Oral)
 
-#### Wenbo Li, Zhe Lin, Kun Zhou, Lu Qi, Yi Wang, Jiaya Jia
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mat-mask-aware-transformer-for-large-hole/image-inpainting-on-places2-1)](https://paperswithcode.com/sota/image-inpainting-on-places2-1?p=mat-mask-aware-transformer-for-large-hole)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mat-mask-aware-transformer-for-large-hole/image-inpainting-on-celeba-hq)](https://paperswithcode.com/sota/image-inpainting-on-celeba-hq?p=mat-mask-aware-transformer-for-large-hole)
+
+#### Wenbo Li, Zhe Lin, Kun Zhou, Lu Qi, Yi Wang, Jiaya Jia
 
 #### [\[Paper\]](https://arxiv.org/abs/2203.15270)
 ---
