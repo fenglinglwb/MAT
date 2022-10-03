@@ -10,6 +10,8 @@
 
 ## :rocket:  :rocket:  :rocket: **News**
 
+- **\[2022.10.03\]** Model for FFHQ-512 is available. ([Link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155137927_link_cuhk_edu_hk/ESwt5gvPs4JOvC76WAEDfb4BSJZNy-qsfJSUZz2kTxYyWw?e=71nHCJ))
+
 - **\[2022.09.10\]** We could provide all testing images of Places and CelebA inpainted by our MAT and other methods. Since there are too many images, please send an email to wenboli@cse.cuhk.edu.hk and explain your needs.
 
 - **\[2022.06.21\]** We provide a SOTA Places-512 model ([Places\_512\_FullData.pkl](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155137927_link_cuhk_edu_hk/EuY30ziF-G5BvwziuHNFzDkBVC6KBPRg69kCeHIu-BXORA?e=7OwJyE)) trained with full Places data (8M images). It achieves significant improvements on all metrics.
