@@ -5,7 +5,7 @@
 
 #### Wenbo Li, Zhe Lin, Kun Zhou, Lu Qi, Yi Wang, Jiaya Jia
 
-#### [\[Paper\]](https://arxiv.org/abs/2203.15270)
+#### [\[Paper\]](https://arxiv.org/abs/2203.15270) | :rocket: [[Web Demo and Docker image on Replicate]](https://replicate.com/fenglinglwb/large-hole-image-inpainting)
 ---
 
 ## :rocket:  :rocket:  :rocket: **News**
