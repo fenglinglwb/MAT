@@ -23,7 +23,7 @@ def read_image(image_path):
         image = np.repeat(image, 3, axis=2)
     image = image.transpose(2, 0, 1) # HWC => CHW
     image = torch.from_numpy(image).float().unsqueeze(0)
-    image = image / 127.5 - 1
+    image = image / 255
 
     return image
 
